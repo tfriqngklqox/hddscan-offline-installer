@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Disk+Diagnostic-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Disk+Diagnostics-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 HDDScan Free Installer** — HDDScan is a free, portable disk diagnostic tool for Windows that performs S.M.A.R.T. Works without internet access, no account required. Full offline installation.
+**💻 HDDScan Free Installer** — HDDScan is a free Windows utility for testing and diagnosing HDD and SSD health. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About HDDScan
 
-HDDScan is a free, portable disk diagnostic tool for Windows that performs S.M.A.R.T. monitoring, surface tests, temperature monitoring, and AAM/APM adjustment for HDDs, SSDs, RAID arrays, and USB drives.
+HDDScan is a free Windows utility for testing and diagnosing HDD and SSD health. Run SMART data analysis, surface scans, read/write performance tests, and acoustic management configuration. HDDScan supports external USB drives and memory cards alongside internal SATA and IDE drives, providing comprehensive drive health assessment tools for detecting failing storage before data loss occurs.
 
 ---
 
 ## ❌ Problem: HDDScan is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **Read-Only Diagnostics** — Cannot repair errors; only detects and reports them
-- **Technical Output** — S.M.A.R.T. data interpretation requires hardware knowledge
-- **No Scheduling** — Cannot schedule automated periodic drive health checks
+- **Windows Only** — No cross-platform version
+- **Dated Interface** — Visual design reflects the software's age
+- **SMART Interpretation** — Understanding SMART attribute meanings requires technical knowledge
+- **Limited SSD Features** — Some HDD-specific tests less relevant for SSD diagnostics
 
 ---
 
@@ -121,7 +121,7 @@ HDDScan is a free, portable disk diagnostic tool for Windows that performs S.M.A
 
 ---
 
-**HDDScan Free Installer** — HDDScan is a free, portable disk diagnostic tool for Windows that performs S.M.A.R.T. Install without internet connection today!
+**HDDScan Free Installer** — HDDScan is a free Windows utility for testing and diagnosing HDD and SSD health. Install without internet connection today!
 
 <div align="center">
 
